@@ -1,0 +1,21 @@
+html {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.card {
+    flex-grow: 5;
+    
+}
+
+.bajo {
+    color: dimgrey;
+}
